@@ -1,133 +1,120 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Keerthana R.
-
-### 💻 Aspiring Software Developer | CSE Student | Tech Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A5CF6&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Impactful+Solutions;Building+Projects+That+Solve+Real+Problems;Learning+%7C+Building+%7C+Growing;Future+Software+Engineer+in+Progress" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Keerthana%20R.&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Developer&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
-✨ *Turning curiosity into code, and ideas into impact.*
+# 👋 Hey there! I'm Keerthana R.
+
+### 💻 Aspiring Software Developer | Computer Science Engineering Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Passionate+About+Technology+%26+Innovation;Exploring+Software+Engineering;Learning+%7C+Building+%7C+Growing;Turning+Ideas+Into+Impactful+Solutions" />
+
+✨ Passionate about transforming ideas into impactful solutions through technology, creativity, and continuous learning.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keerthanaraja797/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keerthanaraja7972007@gmail.com)
+<img src="https://img.shields.io/badge/Creative-Thinker-9B59B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Continuous-Learner-6C5CE7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem-Solver-4834D4?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🌌 About Me
+<div align="center">
 
-> **I don't just want to learn technology. I want to use it to create something meaningful.**
+## 🌟 About Me
 
-Hey there! I'm **Keerthana R.**, a Computer Science Engineering student passionate about software development, problem-solving, and building technology-driven solutions.
+### ✨ A Little More About My Journey
 
-For me, every challenge is an opportunity to learn something new, every project is a chance to turn an idea into reality, and every line of code brings me one step closer to becoming the engineer I aspire to be.
+</div>
 
-I'm particularly interested in exploring how software engineering and artificial intelligence can come together to solve real-world challenges.
-
-### 🚀 My Journey & Mindset
-
-- 💻 **Problem Solver:** Strengthening my programming and logical thinking skills through C++, Data Structures, and Algorithms.
-- 🌐 **Frontend Explorer:** Learning React.js and modern web technologies to create engaging and user-friendly applications.
-- 🧠 **Technology Enthusiast:** Exploring AI-powered solutions and innovative approaches to practical problems.
-- 🏗️ **Builder at Heart:** Turning ideas into working applications through hands-on projects and experimentation.
-- 🏆 **Hackathon Enthusiast:** Collaborating with teams, exploring creative ideas, and participating in innovation challenges.
-- 📈 **Growth Mindset:** Believing in consistency, continuous improvement, and learning beyond the classroom.
-
-**My vision:** To become a skilled software engineer who builds impactful products, solves meaningful problems, and never stops learning.
+- 🎓 Computer Science and Engineering Student.
+- 💡 Interested in Software Engineering, Problem Solving & Innovation.
+- 👩‍💻 Exploring the world of C++, Data Structures & Algorithms.
+- 🌱 Currently growing my skills in React.js and Frontend Development.
+- 🚀 Building technology-driven solutions to solve real-world challenges.
+- 🏆 Hackathon finalist with a passion for learning and creating.
 
 ---
 
-## 🛠️ Tech Stack & Technologies
+<div align="center">
 
-### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js" />
-</p>
+## 🛠️ Tech Stack & Tools
 
-### 🌐 Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
-</p>
+### ⚡ Technologies I Work With
 
-### 🗄️ Database & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode" />
-</p>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,sql,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+</div>
+
+| **Category** | **Technologies** |
+|:---:|:---:|
+| 💻 Programming Languages | C++ · Python · JavaScript |
+| 🌐 Frontend Development | HTML · CSS · React.js |
+| 🗄️ Database | SQL |
+| 🔧 Tools & Platforms | Git · GitHub · VS Code |
 
 ---
+
+<div align="center">
 
 ## 🚀 Featured Projects
 
-I enjoy building applications that combine technology, creativity, and real-world problem-solving.
+### 💡 Ideas Designed to Solve Real-World Challenges
+
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### 🚑 RapidResQ
 
 **AI-Powered Emergency Response Orchestration Platform**
 
-An intelligent emergency coordination platform designed to connect bystanders, emergency responders, nurses, ambulances, and hospitals through a coordinated emergency workflow.
+<img src="https://img.shields.io/badge/Emergency-Response-FF6B6B?style=flat-square" />
 
-**Highlights**
-- AI-assisted first-aid guidance.
-- Emergency coordination.
-- Digital patient handovers.
-- Ambulance and hospital coordination.
+A platform designed to coordinate bystanders, emergency responders, ambulances, and hospitals to support faster pre-hospital emergency assistance.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### 🛡️ SAFEYATRI TN
 
 **Intelligent Tourist Safety Platform**
 
-A Tamil Nadu-focused tourist safety solution designed to improve travel safety through location intelligence and AI-powered assistance.
+<img src="https://img.shields.io/badge/Tourist-Safety-2ECC71?style=flat-square" />
 
-**Highlights**
-- Smart route recommendations.
-- Geofencing and SOS assistance.
-- Women Safety Mode.
-- AI-powered safety insights.
+A Tamil Nadu-focused tourist safety solution featuring smart routes, geofencing, SOS assistance, and AI-powered safety insights.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### ⚖️ LegisLens AI
 
 **Citizen-Centric Legal Transparency Platform**
 
-An AI-powered platform designed to simplify complex Indian legislation and make legal information easier for citizens to understand.
+<img src="https://img.shields.io/badge/Legal-Tech-3498DB?style=flat-square" />
 
-**Highlights**
-- Simplified legal information.
-- Citizen-centric legal insights.
-- Personalized legal understanding.
-- Integration with trusted legal sources.
+An AI-powered platform that simplifies complex Indian legislation into understandable and personalized information for citizens.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### ✨ LeadFlow AI
+### ✨ Building What's Next
 
-**AI-Assisted Lead Generation & Sales Outreach Platform**
+<img src="https://img.shields.io/badge/Always-Learning-A78BFA?style=flat-square" />
 
-A web application that combines prospect discovery, AI-powered assistance, personalized outreach generation, and campaign management.
-
-**Highlights**
-- Lead discovery and filtering.
-- Gemini-powered AI assistant.
-- Personalized message generation.
-- Campaign management.
+Exploring new technologies, developing creative ideas, and continuously growing through hands-on experience.
 
 </td>
 </tr>
@@ -135,69 +122,96 @@ A web application that combines prospect discovery, AI-powered assistance, perso
 
 ---
 
-## 🏆 Achievements & Recognition
-
-| Achievement | Recognition |
-|---|---|
-| 🥇 Academic Excellence | Class 12 School Topper — 587/600 |
-| 🏆 Hackathon Achievement | Top 50 — Institutional Smart India Hackathon Selection |
-| 🚀 Innovation | Finalist — Medha Medithon |
-| 💡 Technical Participation | Multiple hackathons and innovation challenges |
-
-### 📜 Certifications
-
-- Oracle Cloud Infrastructure Foundations Associate — 2026
-- IBM SkillsBuild — AI Fundamentals
-- Cisco — Python Essentials 1 & 2
-- AWS — AWS for Games
-- Anthropic — Claude 101 & Claude Code in Action
-
----
-
-## 🌱 Currently Learning & Exploring
-
-```text
-📌 Data Structures & Algorithms     ███████░░░  In Progress
-📌 C++ & Problem Solving            ███████░░░  In Progress
-📌 JavaScript                       ██████░░░░  Learning
-📌 React.js                         ████░░░░░░  Exploring
-📌 Software Development             █████░░░░░  Building
-```
-
-My current focus is strengthening my fundamentals, improving problem-solving skills, and developing projects that demonstrate practical engineering abilities.
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+## 🏆 Achievements & Certifications
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+### 🌟 Milestones Along My Journey
 
 </div>
 
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🥇 587/600
+
+**Class 12 School Topper**
+
+</td>
+<td align="center" width="50%">
+
+### 🏆 Top 50
+
+**Institutional Smart India Hackathon Selection**
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🚀 Finalist
+
+**Medha Medithon**
+
+</td>
+<td align="center" width="50%">
+
+### 💡 Multiple Hackathons
+
+**Innovation Challenges & Participation**
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🤝 Let's Connect & Collaborate!
+<div align="center">
 
-I'm always excited to connect with people who love technology, innovation, and building meaningful things.
+## 🌱 Currently Exploring
 
-Whether it's discussing software development, exploring new technologies, collaborating on projects, or sharing ideas — let's connect!
+### 📚 Always Learning. Always Growing.
+
+<br/>
+
+<img src="https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-Practicing-8E44AD?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Problem_Solving-Improving-E67E22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React.js-Exploring-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+</div>
+
+- 📌 Data Structures & Algorithms using C++.
+- 📌 Advanced Problem Solving.
+- 📌 JavaScript & React.js.
+- 📌 Building scalable and user-focused applications.
+
+---
 
 <div align="center">
+
+## 🤝 Let's Connect!
+
+### 💬 Always Open to Learning, Connecting & Collaborating
+
+<br/>
 
 <a href="https://www.linkedin.com/in/keerthanaraja797/">
-<img src="https://img.shields.io/badge/LinkedIn-Keerthana_R.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<br/><br/>
+
 <a href="mailto:keerthanaraja7972007@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -206,14 +220,16 @@ Whether it's discussing software development, exploring new technologies, collab
 
 <div align="center">
 
-### ✨ A Little Something I Believe In
+## ✨ My Developer Philosophy
 
-# "Dream beyond limits. Learn without stopping. Build with purpose."
-
-**One step. One problem. One project at a time. 🚀**
+### "Dream big. Learn every day. Build relentlessly. Make an impact."
 
 <br/>
 
-*Thanks for visiting my GitHub profile!*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Dream+Big+%E2%9C%A8;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Make+an+Impact+%F0%9F%92%9C" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
 </div>
