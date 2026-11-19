@@ -44,15 +44,6 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### ⚡ Technologies I Work With
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,sql,git,github,vscode&theme=dark" />
-
-<br/><br/>
-
-</div>
 
 | **Category** | **Technologies** |
 |:---:|:---:|
@@ -61,6 +52,7 @@
 | 🗄️ Database | SQL |
 | 🔧 Tools & Platforms | Git · GitHub · VS Code |
 
+</div>
 ---
 
 <div align="center">
@@ -128,7 +120,6 @@ Exploring new technologies, developing creative ideas, and continuously growing 
 
 ### 🌟 Milestones Along My Journey
 
-</div>
 
 <table>
 <tr>
@@ -165,6 +156,8 @@ Exploring new technologies, developing creative ideas, and continuously growing 
 </tr>
 </table>
 
+
+</div>
 ---
 
 <div align="center">
