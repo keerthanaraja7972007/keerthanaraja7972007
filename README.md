@@ -102,11 +102,11 @@ An AI-powered platform that simplifies complex Indian legislation into understan
 </td>
 <td width="50%" align="center">
 
-### ✨ Building What's Next
+### ✨ LeadFlow-AI
 
 <img src="https://img.shields.io/badge/Always-Learning-A78BFA?style=flat-square" />
 
-Exploring new technologies, developing creative ideas, and continuously growing through hands-on experience.
+AI-powered lead management platform designed to simplify the sales process by helping businesses organize, track, and manage potential customers efficiently.
 
 </td>
 </tr>
